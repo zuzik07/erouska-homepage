@@ -1,8 +1,7 @@
 {
-  "name": "wt-devstack",
+  "name": "erouska",
   "version": "1.0.7",
-  "description": "Oficiální devstack Webterans.",
-  "author": "Daniel Strelec",
+  "description": "eRouška homepage.",
   "devDependencies": {
     "autoprefixer": "^9.7.4",
     "browser-sync": "^2.26.7",
